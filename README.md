@@ -1,16 +1,3 @@
 # cun_zhi_dao
 
-您的乡村旅游APP助手
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+您的乡村旅游APP助手。村知道是一个宣传乡村特色文化的APP，本产品通过为用户推荐就近村庄的特色民俗活动、旅游路线、地理特征、文化历史、美食风景等等来帮助用户获得更好的乡村旅游体验，加强城市和村庄的联系以及村与村之间的互动。
